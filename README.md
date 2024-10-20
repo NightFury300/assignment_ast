@@ -45,14 +45,14 @@ cd assignment_ast
 npm install
 ```
 
-4.Modify ```.env ``` file and ```constants.js``` if you want to use your own **database** using your database uri and **Port** of your choosing
+4.Modify MONGODB_URI ```.env ``` file and DB_NAME ```constants.js``` if you want to use your own **database** using your database uri and **Port** of your choosing
 
 5.Use Command
 ```sh 
 npm run dev
 ```
 
-6.Go to to use the application
+6.Go to the link to use the application
 ```sh 
 http://localhost:3000/api/v1/users/
 ```
